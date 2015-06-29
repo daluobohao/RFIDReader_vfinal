@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+
+  <producer>
+    <serverurl>failover:tcp://10.10.3.225:61616</serverurl>
+    <queuename>esperqueue</queuename>
+  </producer>
+  
+  <!--读写器的ip地址-->
+  <reader>    
+    <node id="1" ip="10.10.14.58" type="无源II型" position="2115"></node>
+    <!--
+    <node id="2" ip="192.168.0.101" type="无源I型" position="office"></node>
+    <node id="3" ip="192.168.0.102" type="无源I型" position="office"></node>
+    <node id="4" ip="192.168.0.103" type="无源I型" position="office"></node>
+    -->    
+    
+    <!--<node id="5" ip="192.168.0.178" type="有源I型" position="office"></node>
+    <node id="6" ip="192.168.0.168" type="有源I型" position="office"></node>
+    <node id="7" ip="192.168.0.87"  type="有源I型" position="office"></node>
+    -->
+  </reader>
+
+  <writer>
+    <node id="1" ip="192.168.1.112" type="无源I型" position="2115"></node> <!--写标签读写器-->
+  </writer>
+
+  <frequency>
+    <!--单位为秒-->
+    <tagsreadfre>2</tagsreadfre> <!--读取标签频率-->
+    <filterTimeInterval>5</filterTimeInterval> <!--预过滤时间窗口长度-->
+  </frequency>
+  
+</root>

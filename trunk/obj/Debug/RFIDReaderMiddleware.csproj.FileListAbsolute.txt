@@ -1,0 +1,56 @@
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\RFIDReaderMiddleware.exe.config
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\RFIDReaderMiddleware.exe
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\RFIDReaderMiddleware.pdb
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\AlienRFID1.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\AlienRFID2.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\AlienSS1.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\Antlr3.Runtime.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\Apache.NMS.ActiveMQ.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\Apache.NMS.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\BouncyCastle.Crypto.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\Castle.Core.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\CGLib.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\Common.Logging.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\Common.Logging.Log4Net1211.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\Google.ProtocolBuffers.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\LLRP.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\LLRP.Impinj.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\log4net.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\NEsper.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\NEsper.IO.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Debug\Ionic.Zlib.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Debug\RFIDReaderMiddleware.csprojResolveAssemblyReference.cache
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Debug\RFIDReaderMiddleware.Form1.resources
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Debug\RFIDReaderMiddleware.Form2.resources
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Debug\RFIDReaderMiddleware.Properties.Resources.resources
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Debug\RFIDReaderMiddleware.csproj.GenerateResource.Cache
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Debug\RFIDReaderMiddleware.exe
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Debug\RFIDReaderMiddleware.pdb
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\RFIDReaderMiddleware.exe.config
+G:\Project\RFIDReader_vfinal\trunk\obj\Debug\RFIDReaderMiddleware.exe
+G:\Project\RFIDReader_vfinal\trunk\obj\Debug\RFIDReaderMiddleware.pdb
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\RFIDReaderMiddleware.exe
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\RFIDReaderMiddleware.pdb
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\AlienRFID1.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\AlienRFID2.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\AlienSS1.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\Antlr3.Runtime.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\Apache.NMS.ActiveMQ.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\Apache.NMS.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\BouncyCastle.Crypto.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\Castle.Core.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\CGLib.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\Common.Logging.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\Common.Logging.Log4Net1211.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\Google.ProtocolBuffers.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\LLRP.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\LLRP.Impinj.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\log4net.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\NEsper.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\NEsper.IO.dll
+G:\Project\RFIDReader_vfinal\trunk\bin\Debug\Ionic.Zlib.dll
+G:\Project\RFIDReader_vfinal\trunk\obj\Debug\RFIDReaderMiddleware.csprojResolveAssemblyReference.cache
+G:\Project\RFIDReader_vfinal\trunk\obj\Debug\RFIDReaderMiddleware.Form1.resources
+G:\Project\RFIDReader_vfinal\trunk\obj\Debug\RFIDReaderMiddleware.Form2.resources
+G:\Project\RFIDReader_vfinal\trunk\obj\Debug\RFIDReaderMiddleware.Properties.Resources.resources
+G:\Project\RFIDReader_vfinal\trunk\obj\Debug\RFIDReaderMiddleware.csproj.GenerateResource.Cache

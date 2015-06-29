@@ -1,0 +1,94 @@
+C:\test\PositionServer\WFAPositionServer\bin\Debug\WFAPositionServer.exe
+C:\test\PositionServer\WFAPositionServer\bin\Debug\WFAPositionServer.pdb
+C:\test\PositionServer\WFAPositionServer\bin\Debug\LLRP.dll
+C:\test\PositionServer\WFAPositionServer\bin\Debug\LLRP.Impinj.dll
+C:\test\PositionServer\WFAPositionServer\obj\Debug\ResolveAssemblyReference.cache
+C:\test\PositionServer\WFAPositionServer\obj\Debug\WFAPositionServer.Form1.resources
+C:\test\PositionServer\WFAPositionServer\obj\Debug\WFAPositionServer.Properties.Resources.resources
+C:\test\PositionServer\WFAPositionServer\obj\Debug\WFAPositionServer.csproj.GenerateResource.Cache
+C:\test\PositionServer\WFAPositionServer\obj\Debug\WFAPositionServer.exe
+C:\test\PositionServer\WFAPositionServer\obj\Debug\WFAPositionServer.pdb
+C:\test\PositionServer\WFAPositionServer\bin\Debug\AlienRFID1.dll
+C:\test\PositionServer\WFAPositionServer\bin\Debug\AlienSS1.dll
+E:\work-four-experiment\PositionServer\WFAPositionServer\obj\Debug\WFAPositionServer.exe
+E:\work-four-experiment\PositionServer\WFAPositionServer\obj\Debug\WFAPositionServer.pdb
+E:\work-four-experiment\PositionServer\WFAPositionServer\bin\Debug\WFAPositionServer.exe
+E:\work-four-experiment\PositionServer\WFAPositionServer\bin\Debug\WFAPositionServer.pdb
+E:\work-four-experiment\PositionServer\WFAPositionServer\obj\Debug\ResolveAssemblyReference.cache
+E:\work-four-experiment\PositionServer\WFAPositionServer\obj\Debug\WFAPositionServer.Form1.resources
+E:\work-four-experiment\PositionServer\WFAPositionServer\obj\Debug\WFAPositionServer.Properties.Resources.resources
+E:\work-four-experiment\PositionServer\WFAPositionServer\obj\Debug\ResGen.read.1.tlog
+E:\work-four-experiment\PositionServer\WFAPositionServer\obj\Debug\ResGen.write.1.tlog
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.exe
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.pdb
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\bin\Debug\WFAPositionServer.exe
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\bin\Debug\WFAPositionServer.pdb
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.Form1.resources
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.Properties.Resources.resources
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\obj\Debug\ResGen.read.1.tlog
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\iie\Desktop\WorkFolder\WFAPositionServer\obj\Debug\ResGen.write.1.tlog
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServer\bin\Debug\WFAPositionServer.exe
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServer\bin\Debug\WFAPositionServer.pdb
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.Form1.resources
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.Properties.Resources.resources
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.csproj.GenerateResource.Cache
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.exe
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.pdb
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServer\obj\Debug\WFAPositionServer.csprojResolveAssemblyReference.cache
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServerv - 副本\obj\Debug\WFAPositionServer.exe
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServerv - 副本\obj\Debug\WFAPositionServer.pdb
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServerv - 副本\obj\Debug\WFAPositionServer.csprojResolveAssemblyReference.cache
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServerv - 副本\obj\Debug\WFAPositionServer.Form1.resources
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServerv - 副本\obj\Debug\WFAPositionServer.Properties.Resources.resources
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServerv - 副本\obj\Debug\WFAPositionServer.csproj.GenerateResource.Cache
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServerv - 副本\bin\Debug\WFAPositionServer.exe
+C:\Users\hwq\Desktop\WorkFolder\WFAPositionServerv - 副本\bin\Debug\WFAPositionServer.pdb
+C:\Users\hwq\Desktop\WorkFolder\RFIDReader_02.24\obj\Debug\WFAPositionServer.exe
+C:\Users\hwq\Desktop\WorkFolder\RFIDReader_02.24\obj\Debug\WFAPositionServer.pdb
+C:\Users\hwq\Desktop\WorkFolder\RFIDReader_02.24\bin\Debug\WFAPositionServer.exe
+C:\Users\hwq\Desktop\WorkFolder\RFIDReader_02.24\bin\Debug\WFAPositionServer.pdb
+C:\Users\hwq\Desktop\WorkFolder\RFIDReader_02.24\obj\Debug\WFAPositionServer.csprojResolveAssemblyReference.cache
+C:\Users\hwq\Desktop\WorkFolder\RFIDReader_02.24\obj\Debug\WFAPositionServer.Form1.resources
+C:\Users\hwq\Desktop\WorkFolder\RFIDReader_02.24\obj\Debug\WFAPositionServer.Properties.Resources.resources
+C:\Users\hwq\Desktop\WorkFolder\RFIDReader_02.24\obj\Debug\WFAPositionServer.csproj.GenerateResource.Cache
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\WFAPositionServer.exe.config
+D:\Projects\RFID863\RFIDReader_2014.02.24v\obj\Debug\WFAPositionServer.exe
+D:\Projects\RFID863\RFIDReader_2014.02.24v\obj\Debug\WFAPositionServer.pdb
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\WFAPositionServer.exe
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\WFAPositionServer.pdb
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\AlienRFID1.dll
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\AlienRFID2.dll
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\AlienSS1.dll
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\Apache.NMS.dll
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\Google.ProtocolBuffers.dll
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\LLRP.dll
+D:\Projects\RFID863\RFIDReader_2014.02.24v\bin\Debug\LLRP.Impinj.dll
+D:\Projects\RFID863\RFIDReader_2014.02.24v\obj\Debug\WFAPositionServer.csprojResolveAssemblyReference.cache
+D:\Projects\RFID863\RFIDReader_2014.02.24v\obj\Debug\WFAPositionServer.Form1.resources
+D:\Projects\RFID863\RFIDReader_2014.02.24v\obj\Debug\WFAPositionServer.Form2.resources
+D:\Projects\RFID863\RFIDReader_2014.02.24v\obj\Debug\WFAPositionServer.Properties.Resources.resources
+D:\Projects\RFID863\RFIDReader_2014.02.24v\obj\Debug\WFAPositionServer.csproj.GenerateResource.Cache
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\WFAPositionServer.exe.config
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Debug\WFAPositionServer.exe
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Debug\WFAPositionServer.pdb
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Debug\WFAPositionServer.csprojResolveAssemblyReference.cache
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Debug\WFAPositionServer.Form1.resources
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Debug\WFAPositionServer.Form2.resources
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Debug\WFAPositionServer.Properties.Resources.resources
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Debug\WFAPositionServer.csproj.GenerateResource.Cache
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\WFAPositionServer.exe
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\WFAPositionServer.pdb
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\AlienRFID1.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\AlienRFID2.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\AlienSS1.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\Apache.NMS.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\LLRP.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Debug\LLRP.Impinj.dll

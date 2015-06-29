@@ -1,0 +1,114 @@
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\RFIDReaderMiddleware.exe.config
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\RFIDReaderMiddleware.exe
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\RFIDReaderMiddleware.pdb
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\AlienRFID1.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\AlienRFID2.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\AlienSS1.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\Antlr3.Runtime.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\Apache.NMS.ActiveMQ.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\Apache.NMS.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\Castle.Core.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\CGLib.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\Common.Logging.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\Common.Logging.Log4Net1211.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\Google.ProtocolBuffers.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\LLRP.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\LLRP.Impinj.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\log4net.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\NEsper.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\NEsper.IO.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\bin\Release\Ionic.Zlib.dll
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Release\RFIDReaderMiddleware.Form1.resources
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Release\RFIDReaderMiddleware.Form2.resources
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Release\RFIDReaderMiddleware.Properties.Resources.resources
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Release\RFIDReaderMiddleware.csproj.GenerateResource.Cache
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Release\RFIDReaderMiddleware.exe
+C:\Users\hwq\Desktop\RFIDReader\RFIDReader\obj\Release\RFIDReaderMiddleware.pdb
+F:\svn\devcenter\RFIDReader\trunk\bin\Release\RFIDReaderMiddleware.exe.config
+F:\svn\devcenter\RFIDReader\trunk\obj\Release\RFIDReaderMiddleware.exe
+F:\svn\devcenter\RFIDReader\trunk\obj\Release\RFIDReaderMiddleware.pdb
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\RFIDReaderMiddleware.exe.config
+G:\Project\RfidReader\RFIDReader\trunk\obj\Release\RFIDReaderMiddleware.exe
+G:\Project\RfidReader\RFIDReader\trunk\obj\Release\RFIDReaderMiddleware.pdb
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\RFIDReaderMiddleware.exe
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\RFIDReaderMiddleware.pdb
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\AlienRFID1.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\AlienRFID2.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\AlienSS1.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\Antlr3.Runtime.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\Apache.NMS.ActiveMQ.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\Apache.NMS.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\BouncyCastle.Crypto.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\Castle.Core.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\CGLib.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\Common.Logging.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\Common.Logging.Log4Net1211.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\Google.ProtocolBuffers.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\LLRP.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\LLRP.Impinj.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\log4net.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\NEsper.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\NEsper.IO.dll
+G:\Project\RfidReader\RFIDReader\trunk\bin\Release\Ionic.Zlib.dll
+G:\Project\RfidReader\RFIDReader\trunk\obj\Release\RFIDReaderMiddleware.csprojResolveAssemblyReference.cache
+G:\Project\RfidReader\RFIDReader\trunk\obj\Release\RFIDReaderMiddleware.Form1.resources
+G:\Project\RfidReader\RFIDReader\trunk\obj\Release\RFIDReaderMiddleware.Form2.resources
+G:\Project\RfidReader\RFIDReader\trunk\obj\Release\RFIDReaderMiddleware.Properties.Resources.resources
+G:\Project\RfidReader\RFIDReader\trunk\obj\Release\RFIDReaderMiddleware.csproj.GenerateResource.Cache
+G:\Project\RFIDReader1\trunk\bin\Release\RFIDReaderMiddleware.exe.config
+G:\Project\RFIDReader1\trunk\obj\Release\RFIDReaderMiddleware.exe
+G:\Project\RFIDReader1\trunk\obj\Release\RFIDReaderMiddleware.pdb
+G:\Project\RFIDReader1\trunk\bin\Release\RFIDReaderMiddleware.exe
+G:\Project\RFIDReader1\trunk\bin\Release\RFIDReaderMiddleware.pdb
+G:\Project\RFIDReader1\trunk\bin\Release\AlienRFID1.dll
+G:\Project\RFIDReader1\trunk\bin\Release\AlienRFID2.dll
+G:\Project\RFIDReader1\trunk\bin\Release\AlienSS1.dll
+G:\Project\RFIDReader1\trunk\bin\Release\Antlr3.Runtime.dll
+G:\Project\RFIDReader1\trunk\bin\Release\Apache.NMS.ActiveMQ.dll
+G:\Project\RFIDReader1\trunk\bin\Release\Apache.NMS.dll
+G:\Project\RFIDReader1\trunk\bin\Release\BouncyCastle.Crypto.dll
+G:\Project\RFIDReader1\trunk\bin\Release\Castle.Core.dll
+G:\Project\RFIDReader1\trunk\bin\Release\CGLib.dll
+G:\Project\RFIDReader1\trunk\bin\Release\Common.Logging.dll
+G:\Project\RFIDReader1\trunk\bin\Release\Common.Logging.Log4Net1211.dll
+G:\Project\RFIDReader1\trunk\bin\Release\Google.ProtocolBuffers.dll
+G:\Project\RFIDReader1\trunk\bin\Release\LLRP.dll
+G:\Project\RFIDReader1\trunk\bin\Release\LLRP.Impinj.dll
+G:\Project\RFIDReader1\trunk\bin\Release\log4net.dll
+G:\Project\RFIDReader1\trunk\bin\Release\NEsper.dll
+G:\Project\RFIDReader1\trunk\bin\Release\NEsper.IO.dll
+G:\Project\RFIDReader1\trunk\bin\Release\Ionic.Zlib.dll
+G:\Project\RFIDReader1\trunk\obj\Release\RFIDReaderMiddleware.csprojResolveAssemblyReference.cache
+G:\Project\RFIDReader1\trunk\obj\Release\RFIDReaderMiddleware.Form1.resources
+G:\Project\RFIDReader1\trunk\obj\Release\RFIDReaderMiddleware.Form2.resources
+G:\Project\RFIDReader1\trunk\obj\Release\RFIDReaderMiddleware.Properties.Resources.resources
+G:\Project\RFIDReader1\trunk\obj\Release\RFIDReaderMiddleware.csproj.GenerateResource.Cache
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\RFIDReaderMiddleware.exe.config
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Release\RFIDReaderMiddleware.exe
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Release\RFIDReaderMiddleware.pdb
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\RFIDReaderMiddleware.exe
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\RFIDReaderMiddleware.pdb
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\AlienRFID1.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\AlienRFID2.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\AlienSS1.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\Antlr3.Runtime.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\Apache.NMS.ActiveMQ.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\Apache.NMS.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\BouncyCastle.Crypto.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\Castle.Core.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\CGLib.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\Common.Logging.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\Common.Logging.Log4Net1211.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\Google.ProtocolBuffers.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\LLRP.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\LLRP.Impinj.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\log4net.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\NEsper.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\NEsper.IO.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\bin\Release\Ionic.Zlib.dll
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Release\RFIDReaderMiddleware.csprojResolveAssemblyReference.cache
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Release\RFIDReaderMiddleware.Form1.resources
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Release\RFIDReaderMiddleware.Form2.resources
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Release\RFIDReaderMiddleware.Properties.Resources.resources
+G:\Project\RFIDReader1 - 2014-10-23 在228改成一个消息中间件\trunk\obj\Release\RFIDReaderMiddleware.csproj.GenerateResource.Cache
